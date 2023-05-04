@@ -52,3 +52,27 @@ Changes VS Code's built-in markdown preview to match GitHub
 ## Markdown All in One
 All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 > [GET EXTENSION](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+## Better Comments
+Improve your code commenting by annotating with alert, informational, TODOs, and more!
+> [GET EXTENSION](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+## Live Server
+Launch a development local Server with live reload feature for static & dynamic pages
+> [GET EXTENSION](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+## Remote - SSH
+Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
+> [GET EXTENSION](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
+## Remote - SSH: Editing Configuration Files
+Edit SSH configuration files
+> [GET EXTENSION](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+
+## Remote Explorer
+View remote machines for SSH and Tunnels.
+> [GET EXTENSION](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
+
+## WSL
+Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
+> [GET EXTENSION](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
